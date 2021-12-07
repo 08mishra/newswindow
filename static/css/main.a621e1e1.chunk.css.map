@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,6BACJ,CAEA,QACI,YACJ","file":"main.a621e1e1.chunk.css","sourcesContent":["* {\n    font-family: \"Lato\", sans-serif;\n}\n\n#navbar {\n    padding: 20px;\n}"]}
